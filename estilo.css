@@ -1,0 +1,58 @@
+#tudo {
+    width: 80%
+}
+
+header {
+    width: 30%;
+    height: 200px;
+    background-color: blue;
+    float: left;
+    margin: auto auto;
+    margin: 5%;
+}
+
+nav {
+    width: 30%;
+    height: 200px;
+    background-color: red;
+    float:right;
+    margin: auto auto;
+    margin: 5%;
+}
+
+main {
+    width: 93%;
+    height: 500px;
+    background-color: green;
+    clear: both;
+    margin: auto auto;
+    padding: 1%;
+}
+
+section {
+    width: 25%;
+    height: 500px;
+    float: left;
+    margin-left: 5%;
+}
+
+#a {
+    background-color: khaki;
+}
+
+#b {
+    background-color: blueviolet;
+}
+
+#c {
+    background-color: bisque;
+}
+
+footer {
+    width: 95%;
+    height: 200px;
+    background-color: yellow;
+    float: none;
+    margin: 0 auto 0 auto;
+    margin-top: 3%;
+}
